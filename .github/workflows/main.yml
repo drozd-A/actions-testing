@@ -24,4 +24,4 @@ jobs:
       contents: read
     steps:
       - name: Build with yarn
-        uses: garnercorp/build-actions/yarn@main
+        uses: garnercorp/build-actions/yarn@change-yarn-action
