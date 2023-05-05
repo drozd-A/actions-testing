@@ -1,0 +1,7 @@
+{
+  "name": "actions-testing",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
