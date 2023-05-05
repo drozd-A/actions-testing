@@ -25,3 +25,7 @@ jobs:
     steps:
       - name: Build with yarn
         uses: garnercorp/build-actions/yarn@change-yarn-action
+        with:
+          npm-username: "Test"
+          npm-password: "Test2"
+          yarn-use-berry: "false"
